@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=first\ second\ weight
+comment0.target=Edge(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ makeCycle()
+comment2.params=
+comment2.target=boolean\ isCycle()
+comment3.params=
+comment3.target=void\ makeUsed()
+comment4.params=
+comment4.target=boolean\ isUsed()
+comment5.params=
+comment5.target=int\ first()
+comment6.params=
+comment6.target=int\ second()
+comment7.params=
+comment7.target=int\ weight()
+numComments=8
